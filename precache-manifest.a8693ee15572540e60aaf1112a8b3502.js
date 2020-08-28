@@ -32,12 +32,12 @@ self.__precacheManifest = [
     "url": "/weather-app/static/media/glyphicons-halflings-regular.fa277232.woff"
   },
   {
-    "revision": "e18bbf611f2a2e43afc071aa2f4e1512",
-    "url": "/weather-app/static/media/glyphicons-halflings-regular.e18bbf61.ttf"
-  },
-  {
     "revision": "448c34a56d699c29117adc64c43affeb",
     "url": "/weather-app/static/media/glyphicons-halflings-regular.448c34a5.woff2"
+  },
+  {
+    "revision": "e18bbf611f2a2e43afc071aa2f4e1512",
+    "url": "/weather-app/static/media/glyphicons-halflings-regular.e18bbf61.ttf"
   },
   {
     "revision": "89889688147bd7575d6327160d64e760",
