@@ -1,22 +1,22 @@
 self.__precacheManifest = [
   {
-    "revision": "83d7a7931a22d77e65dc",
-    "url": "/weather-app/static/css/main.2fd6f6b7.chunk.css"
+    "revision": "f9a742d099269466148c",
+    "url": "/weather-app/static/css/main.8e7dd506.chunk.css"
   },
   {
-    "revision": "83d7a7931a22d77e65dc",
-    "url": "/weather-app/static/js/main.57ae3938.chunk.js"
+    "revision": "f9a742d099269466148c",
+    "url": "/weather-app/static/js/main.cc5095e5.chunk.js"
   },
   {
     "revision": "8d9c99a4f19116c6d931",
     "url": "/weather-app/static/js/runtime~main.02d38d5d.js"
   },
   {
-    "revision": "1a0b91eebb926037cdde",
-    "url": "/weather-app/static/css/2.ff440efe.chunk.css"
+    "revision": "7b995e8e198a179d7a34",
+    "url": "/weather-app/static/css/2.7025b9b0.chunk.css"
   },
   {
-    "revision": "1a0b91eebb926037cdde",
+    "revision": "7b995e8e198a179d7a34",
     "url": "/weather-app/static/js/2.01f2d393.chunk.js"
   },
   {
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/weather-app/static/media/glyphicons-halflings-regular.89889688.svg"
   },
   {
-    "revision": "0fef65df0195d35b8479855bf41a624c",
+    "revision": "b5e134e28d3747051a60eaa1412e57f5",
     "url": "/weather-app/index.html"
   }
 ];
